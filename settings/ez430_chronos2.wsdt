@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Backup of ez430_chronos/915MHz - Limited IAR Kickstart (USA)</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>335</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+      <Find-in-Files>
+        <ColumnWidth0>440</ColumnWidth0>
+        <ColumnWidth1>62</ColumnWidth1>
+        <ColumnWidth2>754</ColumnWidth2>
+      </Find-in-Files>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-29396-27703</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Backup of ez430_chronos</ExpandedNode><ExpandedNode>Backup of ez430_chronos/driver</ExpandedNode><ExpandedNode>Backup of ez430_chronos/include</ExpandedNode><ExpandedNode>Backup of ez430_chronos/logic</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-20508-27870</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-4365-28581</Identity>
+            <TabName>Find in Files</TabName>
+            <Factory>Find-in-Files</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>102</YPos><SelStart>4459</SelStart><SelEnd>4459</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\menu.c</Filename><XPos>0</XPos><YPos>228</YPos><SelStart>8767</SelStart><SelEnd>8772</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\rfbsl.h</Filename><XPos>0</XPos><YPos>27</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\rfbsl.c</Filename><XPos>0</XPos><YPos>27</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\simpliciti\simpliciti.h</Filename><XPos>0</XPos><YPos>43</YPos><SelStart>3166</SelStart><SelEnd>3166</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\simpliciti\Components\mrfi\smartrf\CC1101\smartrf_CC1101.h</Filename><XPos>0</XPos><YPos>87</YPos><SelStart>347</SelStart><SelEnd>347</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\altitude.c</Filename><XPos>0</XPos><YPos>518</YPos><SelStart>20123</SelStart><SelEnd>20123</SelEnd></Tab><ActiveTab>6</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\altitude.h</Filename><XPos>0</XPos><YPos>48</YPos><SelStart>3542</SelStart><SelEnd>3542</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01336460><key>iaridepm.enu1</key></Toolbar-01336460></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>672</Bottom><Right>426</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>218818</sizeHorzCY><sizeVertCX>334375</sizeVertCX><sizeVertCY>737418</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>200</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>218818</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>218818</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
